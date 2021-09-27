@@ -1,0 +1,25 @@
+.menu-bar {
+    display: flex;
+    margin: 0 10%;
+    background-color: #ebebeb;
+    padding: 10px 0;
+}
+
+.filter {
+    flex: 1;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 0 1%;
+    background-color: white;
+}
+
+.extra-width {
+    width: 100%;
+}
+
+.search-bar {
+    flex: 2;
+    text-align: center;
+    padding: 0 1%;
+}

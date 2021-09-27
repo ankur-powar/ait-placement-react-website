@@ -1,0 +1,15 @@
+.mainBtn {
+    margin: 0 5px;
+}
+
+.nav-color {
+    background-color: #0D6AF4; 
+}
+
+.brand {
+    color: white;
+}
+
+#navbarSupportedContent {
+    justify-content: end;
+}

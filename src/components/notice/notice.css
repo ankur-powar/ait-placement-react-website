@@ -1,0 +1,23 @@
+.notice-date {
+    background-color: white;
+    text-align:center;
+    padding: 5px 25px;
+    border: 1px solid #0D6AF4;
+    border-radius: 4px;
+    color: #0D6AF4;
+
+}
+
+.notice-time {
+    background-color: #0D6AF4;
+    float: left;
+    padding: 6px 25px;
+    border-radius: 4px;
+    color: white;
+}
+
+.notice {
+    display: flex;
+}
+
+
