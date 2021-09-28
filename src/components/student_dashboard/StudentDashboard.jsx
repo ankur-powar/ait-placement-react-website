@@ -11,8 +11,8 @@ function StudentDashboard(props) {
             <hr class="border-t border-gray" id="line-break"/>
 
             <div class="student-details">
-                <div class="student-photo">
-                <img src={props.imgSrc} alt=""/>
+                <div>
+                    <img class="student-photo" src={props.imgSrc} alt="" />
                 </div>
                 
                 <div class="student-info">

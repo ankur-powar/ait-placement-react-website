@@ -35,7 +35,7 @@ function AddPost(props) {
                             <hr/>
 
                             <div class="notice-docs">
-                                <a href={props.docLink}>
+                                <a href={props.docLink} target="_blank">
                                     <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/72/x-office-document-icon.png"></img>
                                 </a>
                                 <p>{props.docName}</p>

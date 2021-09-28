@@ -14,7 +14,7 @@ function Admin() {
         date="27 Sep" time="12:30 am"
         title="BNY Interview ShortList" tags={["BNY","Job","Dream Company"]}
         text="BNY is comming On-Campus on 2 Oct 2021."
-        docLink="https://www.aitpune.com/Notices/fee%20in%20installment%202021-22.pdf"
+        docLink="https://www.aitpune.com/Notices/In%20Sem%20Exam%20for%20Sem%20I%202021%20-%2022%20Student.pdf"
         docName="BNY ShortList.pdf"
       />
       <Menubar/>
@@ -26,7 +26,7 @@ function Admin() {
         date="27 Sep" time="12:30 am"
         title="BNY Interview ShortList" tags={["BNY","Job","Dream Company"]}
         text="BNY is comming On-Campus on 2 Oct 2021."
-        docLink="https://www.aitpune.com/Notices/fee%20in%20installment%202021-22.pdf"
+        docLink="https://www.aitpune.com/Notices/In%20Sem%20Exam%20for%20Sem%20I%202021%20-%2022%20Student.pdf"
         docName="BNY ShortList.pdf"
       />
     </div>
